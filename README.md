@@ -1,2 +1,2 @@
 # SpaceX
-Space shooter game
+Space shooter game made to learn java and have some fun!
